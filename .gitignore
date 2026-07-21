@@ -12,7 +12,10 @@ __pycache__/
 Thumbs.db
 
 # Claude 配置（本地专用）
-.claude/
+.claude/projects/
+.claude/worktrees/
+.claude/settings.local.json
+.claude/settings.json
 
 # 虚拟环境
 venv/
